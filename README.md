@@ -1,4 +1,4 @@
-# Home-Lab: Rootkit Detection and Analysis in Linux
+# Rootkit Detection and Analysis in Linux
 
 ## Introduction
 
